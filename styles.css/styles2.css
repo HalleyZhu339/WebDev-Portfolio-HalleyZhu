@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-    <head>
-        <title>Website designed for Kai</title>
-        <style>
+<style>
             body{
                 background-image: url('images/Screenshot 1.png');
                 background-size: cover;
@@ -47,26 +43,4 @@
                 background-color: red; 
             } 
         </style>
-    </head>
-
-    <body>
-        <nav> 
-        <ul> 
-            <li><a href="index.html">Home</a></li> 
-            <li><a href="Portfolio Section.html">Portfolio Section</a></li> 
-            <li><a href="Design Thinking Process.html">Design Thinking Process</a></li>
-            <li><a href="UN Global Goals.html">UN Global Goals</a></li>  
-
-        </ul> 
-        </nav> 
-        
-        <h3><b>Introduction to Myself</b></h3> 
-        <p>I am a 19-year-old student studying at <i>Nanmo</i>. I am currently taking <strong>Computer Science 12</strong> course.
-           I have finished learning all 11 units in <strong>Intro to Web Development</strong> course, and I have some basic knowledge in web development.
-        </p>
-        
-        
-    </body>
-</html>
-
 
